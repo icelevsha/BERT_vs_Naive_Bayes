@@ -55,8 +55,7 @@ print(predict("This film was terrible..."))   # negative
 Ниже показаны примеры предсказаний модели прямо в чате:
 
 ### 🔹 Позитивное сообщение
-![positive example](https://raw.githubusercontent.com/icelevsha/BERT_vs_Naive_Bayes/main/images/positive.png)
-
+![positive example](https://github.com/icelevsha/BERT_vs_Naive_Bayes/blob/main/images/negative.png)
 
 
 ### 🔹 Негативное сообщение
