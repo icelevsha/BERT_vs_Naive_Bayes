@@ -24,7 +24,6 @@
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
 
-# загрузка модели из Hugging Face Hub
 model_name = "levshaone/model_sentiment"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForSequenceClassification.from_pretrained(model_name)
